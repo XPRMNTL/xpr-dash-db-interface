@@ -1,0 +1,14 @@
+{
+  "name": "xpr-dash-db-interface",
+  "version": "1.0.0",
+  "description": "Test-suite that all xpr-dashboard datastores need to be able to pass.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dan Crews <crewsd@gmail.com>",
+  "devDependencies": {
+    "chai": "^2.3.0",
+    "glob": "^5.0.5"
+  }
+}
