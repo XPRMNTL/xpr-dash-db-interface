@@ -13,6 +13,10 @@ module.exports = function(App) {
         expect(App.cleanQuery).to.be.a('function');
         expect(App.cleanQuery.length).to.equal(1);
       });
+      it('deleteExperiment', function() {
+        expect(App.deleteExperiment).to.be.a('function');
+        expect(App.deleteExperiment.length).to.equal(2);
+      });
       it('find', function() {
         expect(App.find).to.be.a('function');
         expect(App.find.length).to.equal(3);
@@ -24,6 +28,10 @@ module.exports = function(App) {
       it('findAndUpdate', function() {
         expect(App.findAndUpdate).to.be.a('function');
         expect(App.findAndUpdate.length).to.equal(3);
+      });
+      it('updateExperiment', function() {
+        expect(App.updateExperiment).to.be.a('function');
+        expect(App.updateExperiment.length).to.equal(3);
       });
     });
 
