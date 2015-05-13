@@ -1,6 +1,6 @@
 {
   "name": "xpr-dash-db-interface",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Test-suite that all xpr-dashboard datastores need to be able to pass.",
   "main": "index.js",
   "scripts": {
