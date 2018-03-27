@@ -1,5 +1,7 @@
 [![XPRMNTL][logo-image]][logo-url]
 # XPRMNTL Datastore 'Interface'
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/XPRMNTL/xpr-dash-db-interface.svg)](https://greenkeeper.io/)
 [![NPM version][npm-image]][npm-url]
 [![Tips][gratipay-image]][gratipay-url]
 
