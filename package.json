@@ -8,7 +8,7 @@
   },
   "author": "Dan Crews <crewsd@gmail.com>",
   "devDependencies": {
-    "chai": "^2.3.0",
-    "glob": "^5.0.5"
+    "chai": "^4.1.2",
+    "glob": "^7.1.2"
   }
 }
